@@ -1,7 +1,7 @@
 {
   "comment" : "Config server api url",
   "server" : {
-    "domain": "http://localhost:8080/api/",
+    "domain": "https://521f-116-99-32-104.ngrok-free.app/api/",
     "api" : {
         "question" : {
             "list" : "question",
