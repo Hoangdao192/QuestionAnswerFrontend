@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+    .quiz-leftbar {
+        display: none !important
+    }
+    .main-question {
+        margin: 0 1rem;
+        width: 100% !important;
+        flex: 1 !important;
+    }
+    .container {
+        margin-top: 1rem !important;
+    }
+}

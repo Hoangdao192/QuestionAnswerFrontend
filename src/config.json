@@ -1,0 +1,13 @@
+{
+  "comment" : "Config server api url",
+  "server" : {
+    "domain": "http://localhost:8080/api/",
+    "api" : {
+        "question" : {
+            "list" : "question",
+            "update" : "question",
+            "random" : "question/random"
+        }
+    }
+  }
+}
